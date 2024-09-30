@@ -21,3 +21,6 @@ L'application *HelloToast* a également été implémentée en utilisant un Line
 1. Clonez le projet.
 2. Ouvrez-le dans Android Studio.
 3. Lancez l'application sur un émulateur ou un appareil Android.
+## Video démonstratif
+   [ZINEBEXO1P2.webm](https://github.com/user-attachments/assets/8a247c6c-ea27-45c1-a425-8af08229151d)
+
