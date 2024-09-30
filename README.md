@@ -11,8 +11,6 @@ L'application *HelloToast* a également été implémentée en utilisant un Line
 - Le *compteur* affiche une valeur mise à jour à chaque interaction avec le bouton "Count".
 - Le LinearLayout organise les éléments UI de manière verticale et plus simple, favorisant une disposition en ligne droite.
 
-## Capture d'écran
-![Hello Toast - LinearLayout](image.png)
 
 ## Technologies utilisées
 - *Langage* : Java (Android SDK)
